@@ -1,0 +1,17 @@
+*{
+     font-family: "Raleway", sans-serif;
+}
+.btn{
+    font-weight: bold;
+    font-size: 16px;
+    color: white;
+    background-color: #4E47FF;
+    padding: 12px 36px 12px 36px;
+    border-radius: 10px;
+    border-color: #4E47FF;
+}
+.herologo{
+    display: flex;
+     justify-content: space-around;
+     margin: 50px auto 50px auto;
+}
